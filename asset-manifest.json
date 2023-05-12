@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CsePortal/static/js/main.c2104764.chunk.js",
+    "main.js.map": "/CsePortal/static/js/main.c2104764.chunk.js.map",
+    "runtime-main.js": "/CsePortal/static/js/runtime-main.075e1dee.js",
+    "runtime-main.js.map": "/CsePortal/static/js/runtime-main.075e1dee.js.map",
+    "static/js/2.e8163c64.chunk.js": "/CsePortal/static/js/2.e8163c64.chunk.js",
+    "static/js/2.e8163c64.chunk.js.map": "/CsePortal/static/js/2.e8163c64.chunk.js.map",
+    "index.html": "/CsePortal/index.html",
+    "static/js/2.e8163c64.chunk.js.LICENSE.txt": "/CsePortal/static/js/2.e8163c64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075e1dee.js",
+    "static/js/2.e8163c64.chunk.js",
+    "static/js/main.c2104764.chunk.js"
+  ]
+}
