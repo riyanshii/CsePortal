@@ -1,6 +1,6 @@
 {
   "name": "final_project",
-  "homepage": "https://riyanshii.github.io",
+  "homepage": "https://riyanshii.github.io/CsePortal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,6 +25,9 @@
     "react-scripts": "4.0.3",
     "styled-components": "^5.3.3",
     "web-vitals": "^1.1.2"
+  },
+  "devDependencies": {
+    "gh-pages": "5.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
