@@ -80,7 +80,7 @@ function InterviewExperience(props) {
           <List dense>
             {props.interviewExperience.rounds.map((round, index) => (
               <ListItem key={index} className={classes.listItem}>
-              <Typography variant="subtitle1">Round {index + 1}</Typography>
+              <Typography variant="subtitle1">Round {index + 1} </Typography>
                 <ListItemText primary={round} />
               </ListItem>
             ))}
@@ -91,7 +91,7 @@ function InterviewExperience(props) {
           <Typography variant="body1">{props.interviewExperience.tips}</Typography>
         </Grid>
         <Grid item xs={12}>
-          <Typography variant="subtitle1" className={classes.field}>Year</Typography>
+          <Typography variant="subtitle1" className={classes.field}>Year : {props.interviewExperience.year}</Typography>
         </Grid>
       </Grid>
     </Paper>
